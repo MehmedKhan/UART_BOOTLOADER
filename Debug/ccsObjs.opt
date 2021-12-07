@@ -1,0 +1,1 @@
+"./SRC/FPEC.obj" "./SRC/UART.obj" "./SRC/UTIL.obj" "./SRC/main.obj" "./SRC/tm4c123gh6pm_startup_ccs.obj" "../tm4c123gh6pm.cmd" -llibc.a 
