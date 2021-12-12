@@ -14,7 +14,7 @@ if __name__ == '__main__':
         bytesize=serial.EIGHTBITS,
         timeout=15)
 
-    file = open("NVIC.hex", "r")
+    file = open("LED_ROLL.hex", "r")
     rec = 1
 
     while True:
